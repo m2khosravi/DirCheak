@@ -1,4 +1,10 @@
 #!/bin/bash
+#
+# Script Name: Dircheak.sh
+#
+# Author: Mahdi khosravi
+# Date: 2019/12/01
+#
 dir=$1
 error=/dev/null
 result=result.txt
